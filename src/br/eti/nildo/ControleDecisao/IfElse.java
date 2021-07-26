@@ -23,9 +23,9 @@ public class IfElse {
 		System.out.println("Digite uma idade: ");
 		int idade = entrada.nextInt();
 		
-		if (idade >= 18) {
+		if (idade >= 18) { // expressão para condição verdadeira
 			System.out.println("É maior de idade.");
-		} else {
+		} else { // expressão para condição falsa
 			System.out.println("É menor de idade");
 		}
 
