@@ -12,5 +12,5 @@ Imersão Java
 
 - [Recordando Array](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/RecordandoArray.java)
 
-- [ArrayMultidimensionais](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/ArrayMultidimensionais.java)
-- [ArrayMultidimensionais2] (https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/ArrayMultidimensionais2.java)
+- [Array Multidimensionais](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/ArrayMultidimensionais.java)
+- [Array Multidimensionais2](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/ArrayMultidimensionais2.java)
