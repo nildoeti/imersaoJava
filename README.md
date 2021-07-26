@@ -10,5 +10,5 @@ Imersão Java
 
 ### Vetores e Matrizes
 
-- [RecordandoArray](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/ControleDecisao/If.java)
+- [Recordando Array](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/RecordandoArray.java)
 
