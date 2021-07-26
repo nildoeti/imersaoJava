@@ -10,3 +10,6 @@ Imersão Java
 - [Recordando Array](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/RecordandoArray.java)
 - [Array Multidimensionais](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/ArrayMultidimensionais.java)
 - [Array Multidimensionais2](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Array/ArrayMultidimensionais2.java)
+
+### Listas
+- [Listas Parte1](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/Listas/ListParte1.java)
