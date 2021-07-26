@@ -8,7 +8,7 @@ Imersão Java
 - [Desvio condicional composto](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/ControleDecisao/IfElse.java)
 
 
-### Controles, Decisões e Loops
+### Vetores e Matrizes
 
 - [RecordandoArray](https://github.com/nildoeti/imersaoJava/blob/main/src/br/eti/nildo/ControleDecisao/If.java)
 
