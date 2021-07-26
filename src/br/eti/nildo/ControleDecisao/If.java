@@ -6,10 +6,12 @@ public class If {
 
 	public static void main(String[] args) {
 		/*
-		 * Programa que solicita a idade de uma pesspa e compara se idade
+		 * Programa que solicita a idade de uma pessoa e compara se idade
 		 * é maior que 18.
 		 * 
-		 * 
+		 * A tomada de decisão simples (desvio condicional simples), é processado
+		 * apenas se a condição for verdadeira.
+		 * Sendo a condição falsa, o programa é encerrado na sequência.
 		 */
 		
 		@SuppressWarnings("resource")
